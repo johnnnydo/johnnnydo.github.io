@@ -1,0 +1,36 @@
+h1 {
+    font-size: 5em;
+}
+
+img {
+    height: 400px;
+    
+    /* px,
+    em, rem, 
+    %, 
+    in, cm, 
+    vh, vw 
+    these are units used*/
+}
+
+.social-icon{
+    height: 100px
+}
+
+body {
+    background-color: beige;
+}
+
+div{
+    background-color: white;
+}
+
+body {
+    color: black;
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+}
+
