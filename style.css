@@ -33,13 +33,9 @@ a {
     color: brown;
     text-decoration: none;
 }
-.container {
-    display: grid;
-    align-items: center; 
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 5px;
+.personal_photo {
+    float: left;
 }
-   
 .about_me {
-     font-size: 70px;
-   }
+    float: right;
+}
