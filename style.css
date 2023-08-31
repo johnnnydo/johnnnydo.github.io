@@ -33,9 +33,10 @@ a {
     color: brown;
     text-decoration: none;
 }
-.personal_photo {
+.personal_photo{
     float: left;
+    margin-right: 20px;
 }
-.about_me {
-    float: right;
+.social-links {
+    clear: both;
 }
