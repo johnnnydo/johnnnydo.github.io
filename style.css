@@ -21,10 +21,6 @@ body {
     background-color: beige;
 }
 
-div{
-    background-color: white;
-}
-
 body {
     color: black;
 }
@@ -37,6 +33,7 @@ a {
     float: left;
     margin-right: 20px;
 }
-.social-links {
+.projects-experience {
     clear: both;
 }
+
