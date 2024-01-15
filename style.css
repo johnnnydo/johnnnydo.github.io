@@ -28,23 +28,36 @@ body, html{
     
     margin-bottom: 5%;
     margin-top: 5%;
+    
 }
 .myemail { 
     margin: 0%;
     font-size: 20%;
     font-weight: 300;
     color: #ffffffde; 
+    
     text-align: center;
   }
 .social-links {
+    margin-top: 0%;
     margin-left: 35%;
+    margin-right: 35%;
+    text-decoration: none;
+
+
+}
+a {
+    text-decoration: none;
 }
 #github {
     width: 85px;
-    height: 60px;
+    text-decoration: none;
+
     
   }
+
  #linkedin {
-    width: 60px;
-    height: 60px;
+    width: 55px;
+    height: 55px;
+    text-decoration: none;
   } 
