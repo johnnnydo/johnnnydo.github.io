@@ -18,7 +18,7 @@ body, html{
 	
     
 }
-
+/** ffffffde white 2e2c32 gray **/
 .myname { 
     font-size: 825%;
     font-weight: 600;
@@ -36,3 +36,15 @@ body, html{
     color: #ffffffde; 
     text-align: center;
   }
+.social-links {
+    margin-left: 35%;
+}
+#github {
+    width: 85px;
+    height: 60px;
+    
+  }
+ #linkedin {
+    width: 60px;
+    height: 60px;
+  } 
