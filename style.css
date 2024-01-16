@@ -5,9 +5,23 @@ body, html{
 	margin:0;
     padding:0;
 }
+.container {
+	display: flex; 
+	align-items: center; 
+	justify-content: center;
+	flex-wrap: wrap;
+	align-content: center;
+}
+.row {
+	flex-direction: row;
+}
+
+.column {
+	flex-direction: column;
+}
 /**My home section**/
 #home-section {
-	height: 100%; 
+	height: 100vh; 
     display: flex;
 	align-items: center; 
 	justify-content: center;
@@ -61,3 +75,37 @@ a {
     height: 55px;
     text-decoration: none;
   } 
+
+/**About me section !**/
+#about-me-section {
+	background-color: #F0F0F0;
+	padding: 50px;
+   
+ 	min-height:100vh; 
+}
+.Hello-world {
+    color: #2e2c32;
+    display: block;
+    letter-spacing: 2px;
+	max-width: 100%;
+	font-size: 205%;
+    
+}
+#pic-of-myself { 
+    margin-left: 5%;
+    width: 40%;
+    height: 50%;
+}
+
+#intro {
+	margin: 40px;
+	padding: 30px;
+	overflow-y:auto;
+	line-height: 22px;
+	height: 390px;
+	width: 500px;
+	font-size: 90%;
+	font-family: Monaco,monospace;
+	border-radius: 4px;
+	background-color: #2a2d34;
+}
