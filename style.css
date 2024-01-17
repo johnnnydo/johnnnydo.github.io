@@ -109,3 +109,29 @@ a {
 	border-radius: 4px;
 	background-color: #2a2d34;
 }
+
+ul {
+    margin: 0; 
+	
+}
+.python-blue {
+    color: #4873cf;
+}
+.python-green {
+    color: #3dbd82;
+}
+.python-yellow {
+    color: #c8db72;
+}
+.python-lightblue {
+    color: #66aeca;
+}
+.parenth {
+    color: #dec36a
+}
+.python-red {
+    color: #c7947e;
+}
+#intro a { 
+    text-decoration: underline;
+}
