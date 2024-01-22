@@ -99,17 +99,18 @@ a {
 }
 #pic-of-myself { 
     margin-left: 5%;
-    width: 45%;
+    width: 40%;
     height: 50%;
 }
 
 #intro {
+    margin-left: 5%;
 	margin: 40px;
 	padding: 30px;
 	overflow-y:auto;
-	line-height: 22px;
+	line-height: 23px;
 	height: 390px;
-	width: 500px;
+	width: 500px; 
 	font-size: 90%;
 	font-family: Monaco,monospace;
 	border-radius: 4px;
@@ -127,7 +128,7 @@ ul {
     color: #3dbd82;
 }
 .python-yellow {
-    color: #c8db72;
+    color: #dbd672;
 }
 .python-lightblue {
     color: #66aeca;
