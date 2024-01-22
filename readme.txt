@@ -62,6 +62,7 @@ https://www.w3schools.com/tags/tag_span.asp
 
 https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_mailto
 
+https://www.w3schools.com/howto/howto_js_navbar_slide.asp
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
