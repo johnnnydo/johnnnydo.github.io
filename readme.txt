@@ -39,7 +39,7 @@ To name a few
 (c) Advanced features
 
 - I created a console which mimiced code, but was a introduction
-- I also created a navigation bar
+- I also created a navigation bar that hides itself and appears as you scroll down.
 
 
 3. How long, in hours, did it take you to complete this assignment?
