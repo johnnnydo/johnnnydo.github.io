@@ -19,6 +19,47 @@ body, html{
 .column {
 	flex-direction: column;
 }
+/**Navigation**/
+.a :hover { 
+    color:#66aeca
+}
+#nav-bar {
+	left: 0%;
+	right: 0%;
+	background-color: white;
+	position: fixed;
+	top: -70px;
+	display: block;
+	box-shadow: 2px 2px 5px #aaaaaa;
+	z-index: 1;
+
+}
+.nav-item:first-child{
+    float: left;
+}
+
+.nav-item:hover:after {
+    transform: scaleX(1);
+}
+.nav-item {
+	color: #2e2c32;
+	float: right;
+	display: block;
+	
+	padding: 22px;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: 600;
+}
+.nav-item::after {
+    display:block;
+    content: '';
+    border-bottom: solid 3px #f5cbcd;  
+    transform: scaleX(0);  
+    transition: 350ms ease-in-out;
+}
+
+
 /**My home section**/
 #home-section {
 	height: 100vh; 

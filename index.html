@@ -18,6 +18,21 @@ PERSONAL: Dojohnny847@gmail.com
 </head>
 
 <body>
+  <script>
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+        document.getElementById("nav-bar").style.top = "0";
+      } else {
+        document.getElementById("nav-bar").style.top = "-70px";
+      }
+}
+  </script>
+  <div id="nav-bar">
+    <a href="#home-section" class="nav-item right">Johnny Do</a>
+    <a href="#about-me-section" class="nav-item left">About Me</a>
+  </div>
   <!--Home Page-->
   <section id="home-section">
     <div class="myname">
