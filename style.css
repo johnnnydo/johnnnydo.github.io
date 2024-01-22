@@ -24,6 +24,7 @@ body, html{
     color:#66aeca
 }
 #nav-bar {
+    height: 8%;
 	left: 0%;
 	right: 0%;
 	background-color: white;
