@@ -19,7 +19,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - */1 Passes validation checks
 - */2 Embraces spirit of the assignment
 
-I believe I earned 13/13 points on this assignment because I followed all of the requirements that was needed. And I attempted many features that 
+I believe I earned 15/15 points (says 13 above but canvas says 15) on this assignment because I followed all of the requirements that was needed. And I attempted many features that 
 embraced the spirit of this project such as the built in console I made to mimic code and the Navigation bar. I also made this a responsive website
 by making use of the grid-system using containers, made use of flex/flexbox , and used percentages for sizing whenever I could in order to make it responsive.
 
